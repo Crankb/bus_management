@@ -2,9 +2,9 @@
 Bus management system final year project
 
 ## Table of contents
-- 📥 [Objectives](##-Objectives)
-- 📄 [Software Requirements Specification](##-Software%Requirements%Specification)
-- 🛠️ [Users](###-Users)
+- 📥 [Objectives](#-Objectives)
+- 📄 [Software Requirements Specification](#-Software%Requirements%Specification)
+- 🛠️ [Users](#-Users)
 
 ## Objectives
 - Main objective is to design and develop an automated bus management system to eliminate the need for human conductors hence reduce time taken on transport booking and management by promoting efficiency.
