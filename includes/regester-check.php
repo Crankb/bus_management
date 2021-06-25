@@ -83,8 +83,8 @@ if(!isset($_POST['submit'])) {
 						header("Location: $host/index.php");
 						exit();
 					} else {
-						echo var_dump($statement2->error_list);
-						# header("Location: $host/regester.php?sql_error=Did%20not%20submit%20information$inf;errors=$errors");
+						$errors = var_dump($statement2->error_list);
+						header("Location: $host/regester.php?sql_error=Did%20not%20submit%20information$inf;errors=$errors");
 						exit();
 					}
 				}
